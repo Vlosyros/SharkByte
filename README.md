@@ -1,5 +1,7 @@
 # SharkByte
-![image](https://github.com/user-attachments/assets/ee730b12-624c-4200-ad24-01effe9542f9)
+<p align="center">
+  ![image](https://github.com/user-attachments/assets/bc30eb8c-be13-4248-98df-c477ebaea64e)
+</p>
 
 
 ## Network Diagram
