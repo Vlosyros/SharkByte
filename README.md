@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2657c21f-15a3-4f50-986d-1c3e918d375c" width="350" alt="SharkByte Logo">
+  <img src="https://github.com/user-attachments/assets/59b4e3f9-1256-4d18-941a-ae6600245e32" width="700" alt="SharkByte Logo">
 </p>
+
 
 ![Static Badge](https://img.shields.io/badge/Release_Date-April_2024-Blue?color=blue) ![Static Badge](https://img.shields.io/badge/Contributers-Christos_Kappos_%26_Willow_Ersil-Blue?color=blue) ![Static Badge](https://img.shields.io/badge/Purpose-Let's_Scrap_Phishing-Blue?color=blue)
 
