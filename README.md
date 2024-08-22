@@ -28,10 +28,32 @@ The ever-growing increase in successful organizational compromise using phishing
 With phishing being centered around human error, it is evident that something must be done to help decrease the success rate of phishing. 
 
 ## SharkByte Phishing Assessment Program:
-SharkByte is designed to demonstrate the full impact of a phishing attack, allowing organizations to understand why it is important to have the necessary controls in place to detect, mitigate, and prevent such attacks. 
+Despite organizations’ ongoing efforts to mitigate phishing attacks, there has been a significant increase in data breaches due to human error. Organizations seeking guidance on decreasing the risk of being subject to a successful Spear-phishing attack may find SharkByte appealing. 
 
-SharkByte also highlights the need for log monitoring, providing SOC Analysts with information to mitigate the risk and counter phishing attacks. Organizations can also benefit from SharkByte’s phishing awareness guide, which is designed to train users on identifying phishing attacks. SharkByte includes a phishing awareness guide, tailored to identifying potential phishing attacks.
+SharkByte is designed to demonstrate the full impact of a phishing attack through a simulated Command & Control [C2] compromise, allowing organizations to understand why it is important to have the necessary controls in place to detect, mitigate, and prevent such attacks. 
 
+SharkByte also highlights the need for log monitoring, providing SOC Analysts with information to mitigate the risk and counter phishing attacks. Organizations can also benefit from SharkByte’s phishing awareness guide, which is designed to train users on identifying phishing attacks. 
+
+With SharkByte emphasizing Spear-phishing, and Command and Control [C2] post-exploitation, organizations can engage in RAWCS’ SharkByte Assessment Program, to both train users on the risks associated with successful Spear-phishing attacks and increase their overall security posture. 
+
+To showcase SharkByte, a fictional company running an on-premise Active Directory environment with the domain nexuscupcakes.corp will be utilized. 
+NexusCupcakes enviornment includes:
+
+| Machine | Summary of System    |
+| ------------- | -------------  |
+| NEXUS-DC  | Domain Controller  |
+| NEXUS-VPN  | OpenVPN Server    |
+| NEXUS-SPLUNK  | Splunk Server  |
+| NEXUS-USER | OpenVPN Server    |
+| NEXUS-VPN  | User Machine      |
+| NEXUS-WP  | Wordpress Website  |
+
+## Exemplary Phishing Engamgent using SharkByte:
+In this exemplary engagement, NexusCupcakes will gain insight into the value of leveraging tools such as Splunk for enhanced security monitoring and incident response, while also providing users with real-world insight into how Phishing attacks are perpetrated.
+
+### Scope of Phishing Attack:
+
+This attack showcases the sophistication of Spear-phishing, displaying how attackers can leverage these attacks to compromise systems, exfiltrate sensitive data, and execute further malicious actions. It emphasizes the importance of implementing safeguards for effective detection and response, such as log generation designated to C2 compromised through the SIEM solution, Splunk. 
 
 
 
