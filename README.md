@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/59b4e3f9-1256-4d18-941a-ae6600245e32" width="700" alt="SharkByte Logo">
+  <img src="https://github.com/user-attachments/assets/9510e919-84f0-471b-998b-47c7b8d199ff" width="700" alt="SharkByte Logo">
 </p>
 
 
