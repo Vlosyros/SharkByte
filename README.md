@@ -1,5 +1,7 @@
 # SharkByte
-![Static Badge](https://img.shields.io/badge/Release_Date-April%202024?logoColor=blue&color=blue)
+![Static Badge](https://img.shields.io/badge/Release_Date-April_2024-Blue?color=blue) ![Static Badge](https://img.shields.io/badge/Contributers-Christos_Kappos_%26_Willow_Ersil-Blue?color=blue)
+
+
 
 
 
