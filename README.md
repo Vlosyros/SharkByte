@@ -1,6 +1,6 @@
 # SharkByte
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bc30eb8c-be13-4248-98df-c477ebaea64e" alt="SharkByte Logo">
+  <img src="https://github.com/user-attachments/assets/bc30eb8c-be13-4248-98df-c477ebaea64e" width="200" alt="SharkByte Logo">
 </p>
 
 ## Network Diagram
