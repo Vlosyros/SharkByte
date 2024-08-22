@@ -8,3 +8,9 @@
 <p align="center">
   An all-in-one service designed to test whether there are controls to mitigate and combat a phishing attack.
 </p>
+
+The ever-growing increase in successful organizational compromise using phishing techniques has significantly increased. In 2024, there were various successful phishing cases, with some of the more critical cases including:
+
+1. Azure Data Breach (Phishing) - In February 2024, Microsoft suffered from the largest data breach recorded to date. The success of this attack stemmed from phishing. Threat actors embedded malicious documents into emails that led victims to phishing websites. This attack targeted mid and senior-level company executives...
+2. MGM Resorts Data Breach (Vishing) -  In September 2023, a well-respected hotel and casino chain, suffered a Vishing attack launched by APT ALPHV and Scattered Spider. The success of this attack stemmed from a Vishing attack, in which the attacker called MGM IT Help Desk requesting assistance with an account. Credentials were provided, which led to the attacks gaining administrator privileges to MGM’s Azure and Okta tenant environments... 
+
