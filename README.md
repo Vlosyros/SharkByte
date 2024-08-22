@@ -1,6 +1,6 @@
 # SharkByte
 <p align="center">
-  ![image](https://github.com/user-attachments/assets/814f8556-fc11-4664-8b98-16e2d9aedfdf)
+  <img width="200" src="(https://github.com/user-attachments/assets/78f6995f-9a9e-4e74-9783-4bd2bd74144e)">
 </p>
 
 ## Network Diagram
