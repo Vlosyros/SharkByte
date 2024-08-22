@@ -17,7 +17,9 @@ The ever-growing increase in successful organizational compromise using phishing
 3. **MGM Resorts Data Breach (Vishing)** -  In September 2023, a well-respected hotel and casino chain, suffered a Vishing attack launched by APT ALPHV and Scattered Spider. The success of this attack stemmed from a Vishing attack, in which the attacker called MGM IT Help Desk requesting assistance with an account. Credentials were provided, which led to the attacks gaining administrator privileges to MGM’s Azure and Okta tenant environments... 
 
 ## What is Phishing?
-Phishing relies on human error, exploiting our curiosity, and taking advantage of users who let their guard down with minimal effort. Instead of utilizing sophisticated tools throughout the kill chain, phishing can be used to gain access to a victim's system through simple social engineering tactics. This often includes tactics such as persuading an individual to open a link, leading to a malicious website, or persuading an individual into downloading and executing/opening a program. 
+Phishing relies on human error, exploiting our curiosity, and taking advantage of users who let their guard down with minimal effort. Instead of utilizing sophisticated tools throughout the kill chain, phishing can be used to gain access to a victim's system through simple social engineering tactics. 
+
+This often includes tactics such as persuading an individual to open a link, leading to a malicious website, or persuading an individual into downloading and executing/opening a program. 
 
 ![image](https://github.com/user-attachments/assets/d7ac49de-43e2-4923-aeaf-ad8dbd7da5a5)
 
