@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  # SharkByte
+  <title>SharkByte</title>
 </p> 
