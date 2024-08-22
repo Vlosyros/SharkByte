@@ -21,8 +21,23 @@ Phishing is relatively easy to execute, so both amateur and experienced cybercri
 ## The Proliferation of Phishing:
 The ever-growing increase in successful organizational compromise using phishing techniques has significantly increased. In 2024, there were various successful phishing cases, with some of the more critical cases including:
 
-1. **Azure Data Breach (Phishing)** - In February 2024, Microsoft suffered from the largest data breach recorded to date. The success of this attack stemmed from phishing. Threat actors embedded malicious documents into emails that led victims to phishing websites. This attack targeted mid and senior-level company executives...
+1. **Azure Data Breach (Phishing)** - In February 2024, Microsoft suffered from the largest data breach recorded. The success of this attack stemmed from phishing. Threat actors embedded malicious documents into emails that led victims to phishing websites. This attack targeted mid and senior-level company executives...
    
 3. **MGM Resorts Data Breach (Vishing)** -  In September 2023, a well-respected hotel and casino chain, suffered a Vishing attack launched by APT ALPHV and Scattered Spider. The success of this attack stemmed from a Vishing attack, in which the attacker called MGM IT Help Desk requesting assistance with an account. Credentials were provided, which led to the attacks gaining administrator privileges to MGM’s Azure and Okta tenant environments...
 
 With phishing being centered around human error, it is evident that something must be done to help decrease the success rate of phishing. 
+
+## SharkByte Phishing Assessment Program:
+The SharkByte Assessment Program showcases the sophistication of Spear-phishing, displaying how attackers can leverage phishing techniques to compromise systems, exfiltrate sensitive data, and execute further malicious actions. It emphasizes the importance of implementing safeguards for effective detection and response, such as log generation designated to C2 compromise through the SIEM solution, Splunk. 
+
+Organizations seeking guidance on decreasing the risk of being subject to a successful Spear-phishing attack may find SharkByte appealing. With SharkByte emphasizing Spear-phishing, and Command and Control [C2] post-exploitation, organizations can engage in RAWCS’ SharkByte Assessment Program, to both train users on the risks associated with successful Spear-phishing attacks and to the organization's Incident Response strategies. 
+
+In this exemplary engagement, NexusCupcakes will gain insight into the value of leveraging tools such as Splunk for enhanced security monitoring and incident response, while also providing users with real-world insight into how Phishing attacks are perpetrated. 
+
+
+
+
+
+
+
+
