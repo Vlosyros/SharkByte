@@ -1,5 +1,6 @@
 # SharkByte
-https://img.shields.io/badge/any_text-you_like-blue 
+![Static Badge](https://img.shields.io/badge/Release_Date-April%202024?logoColor=blue&color=blue)
+
 
 
 <p align="center">
