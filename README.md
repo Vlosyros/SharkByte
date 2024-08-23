@@ -71,7 +71,7 @@ To showcase Sharkbyte, a simulated cyberattack on a fictional organization (Nexu
 In this exemplary engagement, NexusCupcakes will gain insight into the value of leveraging tools such as Splunk for enhanced security monitoring and incident response, while also providing users with real-world insight into how Phishing attacks are perpetrated.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d832271a-6cf1-4aee-b90b-6bccd8852a42" width="800" alt="SharkByte Logo">
+  <img src="https://github.com/user-attachments/assets/d832271a-6cf1-4aee-b90b-6bccd8852a42" width="800" alt="Network Topology">
 </p>
 
 During the attack, the C2 server focuses on infiltrating the USER device through a tailored spear-phishing attack - This device is connected to the NEXUSCUPCAKES domain, indicating that an attacker can leverage this attack to gain access to other devices in the domain
@@ -83,5 +83,14 @@ This attack showcases the sophistication of Spear-phishing, displaying how attac
 Now let's get to work.
 
 ## The SharkByte Engagement:
-The first step in this engagement is to find hosts that are up, specifically hosts that could be hosting a website. Identifying websites is significantly useful when formulating a spear-phishing attack as websites can provide useful information such as employee names, company updates, emails, etc. 
+The first step in this engagement is to find hosts that are up, specifically hosts that could be hosting a website. It is important to note that identifying websites is significantly useful when formulating a spear-phishing attack as websites can provide useful information such as employee names, company updates, emails, etc. To accomplish this, nmap can be utilized.
+
+INSERT NMAP CODE SNIPPET
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bb45fdaf-0401-4b1d-bcbf-d4a77bd29640" width="800" alt="Nmap Scan">
+</p>
+
+
+
 
