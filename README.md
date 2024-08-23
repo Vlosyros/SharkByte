@@ -214,7 +214,7 @@ After the victim machine has executed the file, the connection will appear in Qu
 
 Through “Monitoring” or “User Support” the Remote Desktop function can be utilized. This will allow the attacker full access and visibility to the victim user’s session. Both keyboard and mouse functionality can be enabled for this. 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/00fc88b2-d941-4f82-919b-75666cc9dbaf" width="700" alt="Viewing Victims Screen using Quasar">
+  <img src="https://github.com/user-attachments/assets/ba5aac67-9426-48b7-b948-914bd1ea307f" width="700" alt="Viewing Victims Screen using Quasar">
 </p>
 
 ## Attack on Objectives - Exfiltration of Data:
