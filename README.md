@@ -88,7 +88,7 @@ Now let's get to work.
 The first step in this engagement is to find hosts that are up, specifically hosts that could be hosting a website. It is important to note that identifying websites is significantly useful when formulating a spear-phishing attack as websites can provide useful information such as employee names, company updates, emails, etc. To accomplish this, nmap can be utilized.
 
 ```` bash
-nmap scan nmap -n -sn 10.0.0.0/24 -oG - | awk ‘/Up${print $2}’
+nmap -n -sn 10.0.0.0/24 -oG - | awk ‘/Up${print $2}’
 ````
 
 <p align="center">
