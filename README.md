@@ -27,7 +27,7 @@ The ever-growing increase in successful organizational compromise using phishing
 
 With phishing being centered around human error, it is evident that something must be done to help decrease the success rate of phishing. 
 
-## SharkByte Phishing Assessment Program:
+## Getting to know the SharkByte Phishing Assessment Program:
 Despite organizations’ ongoing efforts to mitigate phishing attacks, there has been a significant increase in data breaches due to human error. To assist with preventing such attacks, our team has developed a solution... SharkByte. SharkByte is an all-in-one security assessment program designed to test whether there are controls to detect, mitigate, and prevent phishing attacks. SharkByte also highlights the need for log monitoring, providing SOC Analysts with information to mitigate the risk and counter phishing attacks. Organizations can also benefit from SharkByte’s phishing awareness guide, which is designed to train users on identifying phishing attacks. 
 
 SharkByte includes a phishing awareness guide, tailored to identifying potential phishing attacks. In summary, SharkByte aims to demonstrate the full impact of a phishing attack through a Command and Control infection, allowing organizations to understand why it is important to have the necessary controls in place to detect, mitigate, and prevent such attacks
