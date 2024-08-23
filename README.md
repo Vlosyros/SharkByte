@@ -37,7 +37,7 @@ To emphasize how easy it is for an attacker to gain full access to a system usin
 ### SharkBytes Goal:
 The primary goal of SharkByte is to grant organizations the knowledge to understand the potential dangers of phishing attacks, and the tools needed to test their defenses against these attacks. Organizations can utilize our SharkByte program to raise awareness for phishing attacks, train users on the dangers of phishing, and test the effectiveness of security controls in place. 
 
-## Exemplary Phishing Engamgent using SharkByte:
+## Exemplary Phishing Engagement using SharkByte:
 
 To showcase Sharkbyte, a simulated cyberattack on a fictional organization (NexusCupcakes) will occur, where a user falls victim to a phishing attack, downloads a malicious document, and establishes a connection to a Command and Control (C2) server. This simulation will demonstrate the potential consequences of employees falling victim to phishing attacks, highlighting the importance of phishing awareness training.
 
@@ -94,7 +94,7 @@ nmap -n -sn 10.0.0.0/24 -oG - | awk ‘/Up${print $2}’
 </p>
 
 ### Step 2 - Finding Open Ports using Rustscan:
-To spice things up, Rustscan is utilized in conjkuction with the addresses obtained from the previous NMAP scan to scan for open ports, specifically services that could potentially be running on port 80 (e.g. WordPress Website). 
+To spice things up, Rustscan is utilized in conjunction with the addresses obtained from the previous NMAP scan to scan for open ports, specifically services that could potentially be running on port 80 (e.g. WordPress Website). 
 ```` bash
 rustscan --addresses 10.0.0.2,10.0.0.22,10.0.0.54,10.0.0.64,10.0.0.91,10.0.0.136,10.0.0.159,10.0.0.176,10.0.0.202,10.0.0.205 -- -A 
 ````
