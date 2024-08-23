@@ -43,7 +43,7 @@ The primary goal of SharkByte is to grant organizations the knowledge to underst
 
 To showcase Sharkbyte, a simulated cyberattack on a fictional organization (NexusCupcakes) will occur, where a user falls victim to a phishing attack, downloads a malicious document, and establishes a connection to a Command and Control (C2) server. This simulation will demonstrate the potential consequences of employees falling victim to phishing attacks, highlighting the importance of phishing awareness training.
 
-<p align="center">
+<div align="center">
   <table>
   <tr><th>NexusCupcakes Environment </th><th>Attacker Machines </th></tr>
   <tr><td>
@@ -64,7 +64,7 @@ To showcase Sharkbyte, a simulated cyberattack on a fictional organization (Nexu
   | RAWCS-C2  | C2 Server          |
   | RAWCS-KALI  | Attacker Machine |
   </td></tr> </table>
-</p>
+</div>
 
 ## Network Topology for Simulated Spear-Phishing Attack:
 
