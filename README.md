@@ -98,7 +98,7 @@ nmap scan nmap -n -sn 10.0.0.0/24 -oG - | awk ‘/Up${print $2}’
 ### Step 2 - Finding Open Ports using Rustscan:
 To spice things up, Rustscan is utilized in conjkuction with the addresses obtained from the previous NMAP scan to scan for open ports, specifically services that could potentially be running on port 80 (e.g. WordPress Website). 
 ```` bash
-rustscan --addresses 10.0.0.2,10.0.0.22,10.0.0.54,10.0.0.64,10.0.0.91,10.0.0.136,10.0.0.159,10.0.0.176,10.0.0.202,10.0.0.205 -- -A. 
+rustscan --addresses 10.0.0.2,10.0.0.22,10.0.0.54,10.0.0.64,10.0.0.91,10.0.0.136,10.0.0.159,10.0.0.176,10.0.0.202,10.0.0.205 -- -A 
 ````
 Executing this scan displays various open ports. Two addresses that are of interest include 10.0.0.22, 10.0.0.91, and 10.0.0.159. 
 <p align="center">
