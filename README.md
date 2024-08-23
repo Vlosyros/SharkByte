@@ -83,6 +83,8 @@ This attack showcases the sophistication of Spear-phishing, displaying how attac
 Now let's get to work.
 
 ## The SharkByte Engagement:
+
+### Step 1 - Find Hosts that are Up using Active Scanning:
 The first step in this engagement is to find hosts that are up, specifically hosts that could be hosting a website. It is important to note that identifying websites is significantly useful when formulating a spear-phishing attack as websites can provide useful information such as employee names, company updates, emails, etc. To accomplish this, nmap can be utilized.
 
 ```` bash
@@ -90,8 +92,17 @@ nmap scan nmap -n -sn 10.0.0.0/24 -oG - | awk ‘/Up${print $2}’
 ````
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/86948621-9762-4dc6-ab61-62a546f3d5ee" width="600" alt="Nmap Scan">
+  <img src="https://github.com/user-attachments/assets/86948621-9762-4dc6-ab61-62a546f3d5ee" width="700" alt="Nmap Scan">
 </p>
 
+### Step 2 - Finding Open Ports using Rustscan:
+To spice things up, Rustscan is utilized in conjkuction with the addresses obtained from the previous NMAP scan to scan for open ports, specifically services that could potentially be running on port 80 (e.g. WordPress Website). 
+```` bash
+rustscan --addresses 10.0.0.2,10.0.0.22,10.0.0.54,10.0.0.64,10.0.0.91,10.0.0.136,10.0.0.159,10.0.0.176,10.0.0.202,10.0.0.205 -- -A. 
+````
+Executing this scan displays various open ports. Two addresses that are of interest include 10.0.0.22, 10.0.0.91, and 10.0.0.159. 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/247a7384-153b-4b2c-80d5-03e5a611c59d" width="700" alt="Nmap Scan">
+</p>
 
 
