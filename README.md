@@ -83,5 +83,5 @@ This attack showcases the sophistication of Spear-phishing, displaying how attac
 Now let's get to work.
 
 ## The SharkByte Engagement:
-![image](https://github.com/user-attachments/assets/3b7349a9-746c-4455-91f4-858a03d26b37)
+The first step in this engagement is to find hosts that are up, specifically hosts that could be hosting a website. Identifying websites is significantly useful when formulating a spear-phishing attack as websites can provide useful information such as employee names, company updates, emails, etc. 
 
