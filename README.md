@@ -46,11 +46,15 @@ To showcase Sharkbyte, a simulated cyberattack on a fictional organization (Nexu
 <table>
 <tr><th>NexusCupcakes Environment </th><th>Attacker Machines </th></tr>
 <tr><td>
-| Machine    | Summary of System |
-| ------------- | -------------  |                
+  
+| Machine | Summary of System    |
+| ------------- | -------------  |        
 | NEXUS-DC  | Domain Controller  |               
 | NEXUS-VPN  | OpenVPN Server    |                
-
+| NEXUS-SPLUNK  | Splunk Server  |
+| NEXUS-USER | OpenVPN Server    |
+| NEXUS-VPN  | User Machine      |
+| NEXUS-WP  | Wordpress Website  | 
 
 </td><td>
 
