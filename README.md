@@ -83,4 +83,5 @@ This attack showcases the sophistication of Spear-phishing, displaying how attac
 Now let's get to work.
 
 ## The SharkByte Engagement:
+![image](https://github.com/user-attachments/assets/3b7349a9-746c-4455-91f4-858a03d26b37)
 
