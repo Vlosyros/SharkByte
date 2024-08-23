@@ -37,7 +37,7 @@ SharkByte also highlights the need for log monitoring, providing SOC Analysts wi
 With SharkByte emphasizing Spear-phishing, and Command and Control [C2] post-exploitation, organizations can engage in RAWCS’ SharkByte Assessment Program, to both train users on the risks associated with successful Spear-phishing attacks and increase their overall security posture. 
 
 To showcase SharkByte, a fictional company running an on-premise Active Directory environment with the domain nexuscupcakes.corp will be utilized. 
-NexusCupcakes enviornment includes:
+NexusCupcakes environment includes:
 
 | Machine | Summary of System    |
 | ------------- | -------------  |
@@ -48,7 +48,7 @@ NexusCupcakes enviornment includes:
 | NEXUS-VPN  | User Machine      |
 | NEXUS-WP  | Wordpress Website  |
 
-## Exemplary Phishing Engamgent using SharkByte:
+## Exemplary Phishing Engagement using SharkByte:
 In this exemplary engagement, NexusCupcakes will gain insight into the value of leveraging tools such as Splunk for enhanced security monitoring and incident response, while also providing users with real-world insight into how Phishing attacks are perpetrated.
 
 ### Scope of Phishing Attack:
