@@ -98,7 +98,7 @@ To spice things up, Rustscan is utilized in conjunction with the addresses obtai
 ```` bash
 rustscan --addresses 10.0.0.2,10.0.0.22,10.0.0.54,10.0.0.64,10.0.0.91,10.0.0.136,10.0.0.159,10.0.0.176,10.0.0.202,10.0.0.205 -- -A 
 ````
-Executing this scan displays various open ports. Two addresses that are of interest include 10.0.0.22, 10.0.0.91, and 10.0.0.159. 
+Executing this scan displays various open ports. Two addresses that are of interest include 10.0.0.22 & 10.0.0.91.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/247a7384-153b-4b2c-80d5-03e5a611c59d" width="700" alt="Nmap Scan">
 </p>
