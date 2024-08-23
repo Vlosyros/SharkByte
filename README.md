@@ -196,7 +196,7 @@ The victim will download the attachment, believing it to be a document.
 
 ## Installation of C2 Communication Channel:
 
-### Step 1 - Initiate RAT File:
+### Initiate RAT File:
 The victim initiates the DOCX Wrapped RAT file, creating a connection to Quasar Machine. 
 
 In the victim’s download folder, the file will look like a legitimate Microsoft Word document. They will click on it, expecting a document to open. However, nothing apparent will happen. 
@@ -206,7 +206,7 @@ In the victim’s download folder, the file will look like a legitimate Microsof
 
 ## Command and Control:
 
-### Step 1 - Displaying Connection to Victim Machine through Quasar:
+### Displaying Connection to Victim Machine through Quasar:
 After the victim machine has executed the file, the connection will appear in Quasar. The connection captured is with the NEXUS-USER machine, with the IP address of 172.27.232.3. By right-clicking on the connection, we can perform a variety of tasks on the connected machine. 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/73f33f35-1335-4172-bc01-2b7054a47d28" width="700" alt="Connection to Victim through Quasar">
