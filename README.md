@@ -50,10 +50,7 @@ To showcase Sharkbyte, a simulated cyberattack on a fictional organization (Nexu
 | ------------- | -------------  |                
 | NEXUS-DC  | Domain Controller  |               
 | NEXUS-VPN  | OpenVPN Server    |                
-| NEXUS-SPLUNK  | Splunk Server  |
-| NEXUS-USER | OpenVPN Server    |
-| NEXUS-VPN  | User Machine      |
-| NEXUS-WP  | Wordpress Website  | 
+
 
 </td><td>
 
