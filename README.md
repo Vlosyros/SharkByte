@@ -85,7 +85,9 @@ Now let's get to work.
 ## The SharkByte Engagement:
 The first step in this engagement is to find hosts that are up, specifically hosts that could be hosting a website. It is important to note that identifying websites is significantly useful when formulating a spear-phishing attack as websites can provide useful information such as employee names, company updates, emails, etc. To accomplish this, nmap can be utilized.
 
-INSERT NMAP CODE SNIPPET
+```` bash
+nmap scan nmap -n -sn 10.0.0.0/24 -oG - | awk ‘/Up${print $2}’
+````
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/86948621-9762-4dc6-ab61-62a546f3d5ee" width="600" alt="Nmap Scan">
