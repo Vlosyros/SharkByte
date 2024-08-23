@@ -160,7 +160,7 @@ In the Assembly Settings tab, we can change the Assembly Information of the clie
 
 After naming, building, and saving the client, the client file will appear in the designated save location. The client file has been given the name User-Commitment-Policy-2024.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b76af0b1-336c-42ad-8ae5-30cd02a65a12" width="700" alt="Nmap Scan">
+  <img src="https://github.com/user-attachments/assets/b76af0b1-336c-42ad-8ae5-30cd02a65a12" width="800" alt="Nmap Scan">
 </p>
 
 ### Step 4 - Start Listening on Quasar for Client Connections:
@@ -174,7 +174,7 @@ In Quasar’s Settings, we will press the Start Listening button. This will allo
 ### Step 1 - Send RAT File from QUASAR to User in NexusCupcakes Domain:
 Attackers may use a secure email engine such as Protonmail to perpetrate phishing attacks. Correspondingly, the SharkByte program will utilize the emails gathered from the About Us page, in a Spear-phishing attack tailored to NexusCupcakes. 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f8f76a99-1759-4c66-9475-8708d570da33" width="700" alt="Nmap Scan">
+  <img src="https://github.com/user-attachments/assets/f8f76a99-1759-4c66-9475-8708d570da33" width="800" alt="Nmap Scan">
 </p>
 
 Engagement begins with carefully crafted phishing emails tailored to a new User Commitment Policy at NexusCupcakes. This phishing email will contain the RAT file, which in turn will initiate the connection to Quasar upon execution. 
@@ -238,7 +238,7 @@ The File Manager on the victim machine can also be accessed, allowing the attack
 
 Other actions can be performed without an active user session as well, such as starting or killing processes in Task Manager. 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/63d94758-5aee-411b-a196-155a9e2781d1" width="700" alt="Nmap Scan">
+  <img src="https://github.com/user-attachments/assets/63d94758-5aee-411b-a196-155a9e2781d1" width="900" alt="Nmap Scan">
 </p>
 
 ## Protecting NeusCupcakes Node Using Splunk:
@@ -297,3 +297,6 @@ In this engagement, NexusCupcakes will gain insight into the value of leveraging
 Organizations can also benefit from SharkByte’s phishing awareness guide, which is designed to train users on techniques for identifying a phish through real-world phishing attack scenarios. SharkByte includes a phishing awareness guide, tailored to identifying potential phishing attacks.
 
 Awareness is the first line of defense and our ability to identify a phish is important. You play a critical role and it is important to stay vigilant and knowledgeable about phishing tactics! By doing so, you will be able to prevent yourself from falling victim to a phish. We are SharkByters, after all!
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7206d782-f394-4bcf-a523-7c4cf0e20449" width="700" alt="Nmap Scan">
+</p>
