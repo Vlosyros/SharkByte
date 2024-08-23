@@ -30,8 +30,7 @@ With phishing being centered around human error, it is evident that something mu
 ## SharkByte Phishing Assessment Program:
 Despite organizations’ ongoing efforts to mitigate phishing attacks, there has been a significant increase in data breaches due to human error. To assist with preventing such attacks, our team has developed a solution... SharkByte. SharkByte is an all-in-one security assessment program designed to test whether there are controls to detect, mitigate, and prevent phishing attacks. SharkByte also highlights the need for log monitoring, providing SOC Analysts with information to mitigate the risk and counter phishing attacks. Organizations can also benefit from SharkByte’s phishing awareness guide, which is designed to train users on identifying phishing attacks. 
 
-. SharkByte includes a phishing awareness guide, tailored to identifying potential phishing attacks. In summary, SharkByte aims to demonstrate the full impact of a phishing attack through a Command and Control infection, allowing organizations to understand why it is important to have the necessary controls in place to detect, mitigate, and prevent such attacks
-
+SharkByte includes a phishing awareness guide, tailored to identifying potential phishing attacks. In summary, SharkByte aims to demonstrate the full impact of a phishing attack through a Command and Control infection, allowing organizations to understand why it is important to have the necessary controls in place to detect, mitigate, and prevent such attacks
 
 To emphasize how easy it is for an attacker to gain full access to a system using phishing techniques, SharkByte utilizes sophisticated attacks using techniques such as Command and Control [C2]. Organizations can engage in the SharkByte assessment program, to both train users on the risks associated with spear-phishing attacks, as well ass increase their overall security posture. 
 
@@ -73,3 +72,8 @@ During the attack, the C2 server focuses on infiltrating the USER device through
 ### Scope of Phishing Attack:
 
 This attack showcases the sophistication of Spear-phishing, displaying how attackers can leverage these attacks to compromise systems, exfiltrate sensitive data, and execute further malicious actions. It emphasizes the importance of implementing safeguards for effective detection and response, such as log generation designated to C2 compromised through the SIEM solution, Splunk. 
+
+Now let's get to work.
+
+## The SharkByte Engagement:
+
