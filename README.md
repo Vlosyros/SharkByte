@@ -201,7 +201,7 @@ The victim initiates the DOCX Wrapped RAT file, creating a connection to Quasar 
 
 In the victim’s download folder, the file will look like a legitimate Microsoft Word document. They will click on it, expecting a document to open. However, nothing apparent will happen. 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b2a7cc55-3fc1-4911-b35c-4cc798bf77d3" width="700" alt="Nmap Scan">
+  <img src="https://github.com/user-attachments/assets/b2a7cc55-3fc1-4911-b35c-4cc798bf77d3" width="900" alt="Nmap Scan">
 </p>
 
 ## Command and Control:
