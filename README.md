@@ -84,7 +84,7 @@ Now let's get to work.
 
 ## The SharkByte Engagement:
 
-### Step 1 - Find Hosts that are Up using Active Scanning:
+### Step 1 - Finding Hosts that are UP using Active Scanning:
 The first step in this engagement is to find hosts that are up, specifically hosts that could be hosting a website. It is important to note that identifying websites is significantly useful when formulating a spear-phishing attack as websites can provide useful information such as employee names, company updates, emails, etc. To accomplish this, nmap can be utilized.
 
 ```` bash
