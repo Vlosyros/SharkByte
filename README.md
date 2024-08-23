@@ -288,7 +288,7 @@ In our engagement with NexusCupcakes, NexusCupcakes expressed their need to secu
 In reality, it is quite simple for an attacker to find information such as email addresses of an organization. For example, an attacker can easily navigate through durhamcollege.ca, and find various email addresses of professors, executives, and other members of the Durham College community. If an attacker were to acquire this information, they could formulate a spear-phishing attack designated to Durham College. SharkBytes' goal is to demonstrate this, providing both real-world experience, and tailored phishing awareness training. 
 
 # Lessons Learned & How SharkByte Can Help:
-The truth is, anyone can be targeted by a phishing attack. With phishing attacks becoming more sophisticated, it is important that organizations educate their employees on phishing and implement controls to mitigate the risk of compromise. 
+The truth is, anyone can be targeted by a phishing attack. With phishing attacks becoming more sophisticated, organizations must educate their employees on phishing and implement controls to mitigate the risk of compromise. 
 
 SharkByte is designed to simulate a realistic cyberattack on a fictional organization (NexusCupcakes) where a user falls victim to a phishing attack, downloads a malicious document (RAT file), and establishes a connection to the attackers’ Quasar (C2) Server. Phishing attacks are real, and have serious consequences for everyone involved. 
 
