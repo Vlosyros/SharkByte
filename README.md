@@ -78,6 +78,12 @@ During the attack, the C2 server focuses on infiltrating the USER device through
 
 This attack showcases the sophistication of Spear-phishing, displaying how attackers can leverage these attacks to compromise systems, exfiltrate sensitive data, and execute further malicious actions. It emphasizes the importance of implementing safeguards for effective detection and response, such as log generation designated to C2 compromised through the SIEM solution, Splunk. 
 
+#### How do C2 Attacks Work - Using Quasar as an Example:
+1. Adversaries establish a foothold in the targeted machine to initiate an attack. This can be achieved through phishing emails or exploiting vulnerabilities in a system.
+2. Once access to the system has been initiated, the attacker can install other malicious software to gain full control over the system.
+3. Using a Command and Control Server such as Quasar, attackers can build a communication line with a compromised machine.
+4. Once the communication channel is established, the attacker can utilize the C2 channel to initiate malicious activity from the infected machine. The infected system is now considered a zombie of the C2 Server and can now be utilized to perform further attacks such as exfiltrating data, or performing external attacks on other devices such as a Distributed Denial of Service (DDoS) attack. These are just examples; the possibilities are endless once infected by a C2 Server.
+
 Now let's get to work.
 
 ## The SharkByte Engagement:
