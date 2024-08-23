@@ -297,6 +297,10 @@ In this engagement, NexusCupcakes will gain insight into the value of leveraging
 Organizations can also benefit from SharkByte’s phishing awareness guide, which is designed to train users on techniques for identifying a phish through real-world phishing attack scenarios. SharkByte includes a phishing awareness guide, tailored to identifying potential phishing attacks.
 
 Awareness is the first line of defense and our ability to identify a phish is important. You play a critical role and it is important to stay vigilant and knowledgeable about phishing tactics! By doing so, you will be able to prevent yourself from falling victim to a phish. We are SharkByters, after all!
+
+More information on using SharkByte to secure against Phishing & Command & Control Compromise, we recommend watching:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/McqI3d5Zzjc?si=PcCX5rUxXoAOTWHq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7206d782-f394-4bcf-a523-7c4cf0e20449" width="1200" alt="Nmap Scan">
 </p>
