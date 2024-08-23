@@ -209,12 +209,12 @@ In the victim’s download folder, the file will look like a legitimate Microsof
 ### Step 1 - Displaying Connection to Victim Machine through Quasar:
 After the victim machine has executed the file, the connection will appear in Quasar. The connection captured is with the NEXUS-USER machine, with the IP address of 172.27.232.3. By right-clicking on the connection, we can perform a variety of tasks on the connected machine. 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/73f33f35-1335-4172-bc01-2b7054a47d28" width="700" alt="Nmap Scan">
+  <img src="https://github.com/user-attachments/assets/73f33f35-1335-4172-bc01-2b7054a47d28" width="900" alt="Nmap Scan">
 </p>
 
 Through “Monitoring” or “User Support” the Remote Desktop function can be utilized. This will allow the attacker full access and visibility to the victim user’s session. Both keyboard and mouse functionality can be enabled for this. 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/00fc88b2-d941-4f82-919b-75666cc9dbaf" width="700" alt="Nmap Scan">
+  <img src="https://github.com/user-attachments/assets/00fc88b2-d941-4f82-919b-75666cc9dbaf" width="900" alt="Nmap Scan">
 </p>
 
 ## Attack on Objectives - Exfiltration of Data:
