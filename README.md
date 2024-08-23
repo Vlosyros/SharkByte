@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-![Static Badge](https://img.shields.io/badge/Release_Date-April_2024-Blue?color=blue) ![Static Badge](https://img.shields.io/badge/Contributors-Christos_Kappos_%26_Willow_Ersil-Green?labelColor=grey&color=green) ![Static Badge](https://img.shields.io/badge/Purpose-Let's_Scrap_Phishing-Blue?color=blue) 
+<img src="https://img.shields.io/badge/Release_Date-April_2024-Blue?color=blue"> ![Static Badge](https://img.shields.io/badge/Contributors-Christos_Kappos_%26_Willow_Ersil-Green?labelColor=grey&color=green) ![Static Badge](https://img.shields.io/badge/Purpose-Let's_Scrap_Phishing-Blue?color=blue) 
 </p>
 
 <h1 align="center">SharkByte: Human Error's Worst Nightmare</h1>
