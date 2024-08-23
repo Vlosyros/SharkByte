@@ -12,7 +12,7 @@
 ## What is Phishing?
 Phishing relies on human error, exploiting our curiosity, and taking advantage of users who let their guard down with minimal effort. Instead of utilizing sophisticated tools throughout the kill chain, phishing can be used to gain access to a victim's system through simple social engineering tactics. 
 
-This often includes tactics such as persuading an individual to open a link, leading to a malicious website, or persuading an individual into downloading and executing/opening a program. 
+This often includes tactics such as persuading an individual to open a link, leading to a malicious website, or persuading an individual into downloading and opening a program. 
 
 ![image](https://github.com/user-attachments/assets/d7ac49de-43e2-4923-aeaf-ad8dbd7da5a5)
 
@@ -28,15 +28,20 @@ The ever-growing increase in successful organizational compromise using phishing
 With phishing being centered around human error, it is evident that something must be done to help decrease the success rate of phishing. 
 
 ## SharkByte Phishing Assessment Program:
-Despite organizations’ ongoing efforts to mitigate phishing attacks, there has been a significant increase in data breaches due to human error. Organizations seeking guidance on decreasing the risk of being subject to a successful Spear-phishing attack may find SharkByte appealing. 
+Despite organizations’ ongoing efforts to mitigate phishing attacks, there has been a significant increase in data breaches due to human error. To assist with preventing such attacks, our team has developed a solution... SharkByte. SharkByte is an all-in-one security assessment program designed to test whether there are controls to detect, mitigate, and prevent phishing attacks. SharkByte also highlights the need for log monitoring, providing SOC Analysts with information to mitigate the risk and counter phishing attacks. Organizations can also benefit from SharkByte’s phishing awareness guide, which is designed to train users on identifying phishing attacks. 
 
-SharkByte is designed to demonstrate the full impact of a phishing attack through a simulated Command & Control [C2] compromise, allowing organizations to understand why it is important to have the necessary controls in place to detect, mitigate, and prevent such attacks. 
+. SharkByte includes a phishing awareness guide, tailored to identifying potential phishing attacks. In summary, SharkByte aims to demonstrate the full impact of a phishing attack through a Command and Control infection, allowing organizations to understand why it is important to have the necessary controls in place to detect, mitigate, and prevent such attacks
 
-SharkByte also highlights the need for log monitoring, providing SOC Analysts with information to mitigate the risk and counter phishing attacks. Organizations can also benefit from SharkByte’s phishing awareness guide, which is designed to train users on identifying phishing attacks. 
 
-With SharkByte emphasizing Spear-phishing, and Command and Control [C2] post-exploitation, organizations can engage in RAWCS’ SharkByte Assessment Program, to both train users on the risks associated with successful Spear-phishing attacks and increase their overall security posture. 
+To emphasize how easy it is for an attacker to gain full access to a system using phishing techniques, SharkByte utilizes sophisticated attacks using techniques such as Command and Control [C2]. Organizations can engage in the SharkByte assessment program, to both train users on the risks associated with spear-phishing attacks, as well ass increase their overall security posture. 
 
-To showcase SharkByte, a fictional company running an on-premise Active Directory environment with the domain nexuscupcakes.corp will be utilized. 
+### SharkBytes Goal:
+The primary goal of SharkByte is to grant organizations the knowledge to understand the potential dangers of phishing attacks, and the tools needed to test their defenses against these attacks. Organizations can utilize our SharkByte program to raise awareness for phishing attacks, train users on the dangers of phishing, and test the effectiveness of security controls in place. 
+
+## Exemplary Phishing Engamgent using SharkByte:
+
+To showcase Sharkbyte, a simulated cyberattack on a fictional organization (NexusCupcakes) will occur, where a user falls victim to a phishing attack, downloads a malicious document, and establishes a connection to a Command and Control (C2) server. This simulation will demonstrate the potential consequences of employees falling victim to phishing attacks, highlighting the importance of phishing awareness training.
+
 NexusCupcakes environment includes:
 
 | Machine | Summary of System    |
@@ -48,15 +53,18 @@ NexusCupcakes environment includes:
 | NEXUS-VPN  | User Machine      |
 | NEXUS-WP  | Wordpress Website  |
 
-## Exemplary Phishing Engagement using SharkByte:
+The attackers,
+
+## Network Topology for Simulated Spear-Phishing Attack:
+
 In this exemplary engagement, NexusCupcakes will gain insight into the value of leveraging tools such as Splunk for enhanced security monitoring and incident response, while also providing users with real-world insight into how Phishing attacks are perpetrated.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d832271a-6cf1-4aee-b90b-6bccd8852a42" width="350" alt="SharkByte Logo">
+</p>
+
+During the attack, the C2 server focuses on infiltrating the USER device through a tailored spear-phishing attack - This device is connected to the NEXUSCUPCAKES domain, indicating that an attacker can leverage this attack to gain access to other devices in the domain
 
 ### Scope of Phishing Attack:
 
 This attack showcases the sophistication of Spear-phishing, displaying how attackers can leverage these attacks to compromise systems, exfiltrate sensitive data, and execute further malicious actions. It emphasizes the importance of implementing safeguards for effective detection and response, such as log generation designated to C2 compromised through the SIEM solution, Splunk. 
-
-
-
-
-
-
