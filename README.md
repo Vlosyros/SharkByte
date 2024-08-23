@@ -43,9 +43,10 @@ The primary goal of SharkByte is to grant organizations the knowledge to underst
 
 To showcase Sharkbyte, a simulated cyberattack on a fictional organization (NexusCupcakes) will occur, where a user falls victim to a phishing attack, downloads a malicious document, and establishes a connection to a Command and Control (C2) server. This simulation will demonstrate the potential consequences of employees falling victim to phishing attacks, highlighting the importance of phishing awareness training.
 
-NexusCupcakes environment includes:               
-
-| Machine | Summary of System    |               
+<table>
+<tr><th>NexusCupcakes Environment </th><th>Attacker Machines </th></tr>
+<tr><td>
+|Machine| Summary of System|
 | ------------- | -------------  |                
 | NEXUS-DC  | Domain Controller  |               
 | NEXUS-VPN  | OpenVPN Server    |                
@@ -54,12 +55,13 @@ NexusCupcakes environment includes:
 | NEXUS-VPN  | User Machine      |
 | NEXUS-WP  | Wordpress Website  | 
 
-Attacker machines include:
+</td><td>
 
 | Machine | Summary of System    |
 | ------------- | -------------  |
 | RAWCS-C2  | C2 Server          |
 | RAWCS-KALI  | Attacker Machine |
+</td></tr> </table>
 
 ## Network Topology for Simulated Spear-Phishing Attack:
 
