@@ -88,7 +88,7 @@ The first step in this engagement is to find hosts that are up, specifically hos
 INSERT NMAP CODE SNIPPET
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/86948621-9762-4dc6-ab61-62a546f3d5ee" width="400" alt="Nmap Scan">
+  <img src="https://github.com/user-attachments/assets/86948621-9762-4dc6-ab61-62a546f3d5ee" width="600" alt="Nmap Scan">
 </p>
 
 
